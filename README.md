@@ -11,11 +11,11 @@
 ---
 
 ## 🧠 Project Description  
-This creative magazine was developed as part of the **Programming Fundamentals** course in the first semester. It showcases a blend of technical insights, student creativity, and academic highlights in a well-designed format.
+This creative magazine was developed as part of the **Programming Fundamentals** course in the first semester. It showcases a blend of technical insights, creativity, and academic highlights in a well-designed format.
 
 The magazine includes:
 
-- 📖 Articles and features written by students  
+- 📖 Articles and features  
 - 🎨 Visual layout and formatting  
 - 📚 Academic and extracurricular content  
 
@@ -25,8 +25,7 @@ The magazine includes:
 
 - 🖋️ Original student-written content  
 - 🎨 Designed layout with headings, sections, and visuals  
-- 📥 Available in downloadable PDF format  
-- 📸 Screenshots of key pages (optional)  
+- 📥 Available in downloadable PDF format   
 - 🧠 Reflects creativity and presentation skills  
 
 ---
