@@ -1,8 +1,11 @@
 # ICT Project – Information and Communication Technology (Semester 1)
 
 📌 **Project Title:** Magazine
+
 📚 **Course:** Information and Communication Technology
+
 🎓 **Semester:** 1st Semester  
+
 👩‍💻 **Submitted by:** Mahnoor
 
 ---
